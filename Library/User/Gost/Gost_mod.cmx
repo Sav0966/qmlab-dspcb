@@ -1,0 +1,20 @@
+Amper_mod||#SPICE=0||@SpiceProbe=Current||@SpiceProbeCurveLabel=||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Bat_mod||#SPICE=0||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@SpiceDevice=V||@SpiceSourceDC=1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=
+Comp_mod||#SPICE=0||@SpiceSubcircuit=k554sa3||@SpiceDevice=X||@Type= 554—¿3||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=
+Con_mod||#SPICE=0||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@SpiceDevice=C||@C=1u||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=
+Cur_mod||#SPICE=0||@SpiceDevice=I||@SpiceSourceDC=1m||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=
+Diod_mod||#SPICE=0||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@SpiceDevice=D||@SpiceModel=KD522B||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=
+Ground||#SPICE=0||@SpiceGround=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Ind_mod||#SPICE=0||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@SpiceDevice=L||@L=1m||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=
+Npn_mod||#SPICE=0||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@SpiceDevice=Q||@SpiceModel=KT315G||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=
+Op3_mod||#SPICE=0||@SpiceSubcircuit=opamp||@SpiceDevice=X||@SpiceParameters=Aol=100k GBW=10Meg||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=
+Op5_mod||#SPICE=0||@SpiceSubcircuit=level.2||@SpiceDevice=X||@SpiceParameters=Avol=1Meg GBW=10Meg||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=
+Pnp_mod||#SPICE=0||@SpiceDevice=Q||@SpiceModel=KT3107a||@Type= “3107¿||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=
+Res_mod||#SPICE=0||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@SpiceDevice=R||@R=1k||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=
+Swu_mod||#SPICE=0||@SpiceDevice=S||@SpiceModel=MYSW||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Tri_mod||#SPICE=0||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=
+Vac_mod||#SPICE=0||@SpiceDevice=V||@SpiceSourceAC=1 0||@SpiceSourceDC=0||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=
+Volt_mod||#SPICE=0||@SpiceProbe=Voltage||@SpiceProbeCurveLabel=||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Vpr_mod||#SPICE=0||@SpiceProbeCurveLabel=||@SpiceProbe=Voltage||@SpiceParametr=||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=
+Vpul_mod||#SPICE=0||@SpiceDevice=V||@SpiceSource=Pulse||@SpiceInitValue=0||@SpicePulsedValue=5||@SpiceDelay=0||@SpiceRise=1n||@SpiceFall=1n||@SpiceWidth=12.8u||@SpicePeriod=25.6u||@SpiceNumPeriods=||@SpiceParameters=Rser=50||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=
+Vsin_mod||#SPICE=0||@SpiceDevice=V||@SpiceSourceAC=||@SpiceSource=Sine||@SpiceFrequency=100||@SpicePeak=1||@SpiceOffset=0||@SpiceDelay=||@SpiceTheta=||@SpicePhase=||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=
