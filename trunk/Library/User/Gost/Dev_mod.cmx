@@ -1,0 +1,2 @@
+LM2904m||#SPICE=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@SpiceDevice=X||@SpiceSubcircuit=LM2904||@Type=LM2904
+LTC1060m||#SPICE=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@SpiceDevice=X||@SpiceSubcircuit=LTC1060||@SpiceParameters=fclka=100k fclkb=100k divider=100

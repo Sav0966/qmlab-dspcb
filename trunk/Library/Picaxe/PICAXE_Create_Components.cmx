@@ -1,0 +1,147 @@
+2.1mm power jack||#POWER=3||@=||@=||@=||@=||@=
+3.5mm Stereo||#DIL=10||@=||@=||@=||@=||@=
+7 Segment LED (CA)||#DIL=10||@=||@=||@=||@=||@=
+7 Segment LED (CC)||#DIL=10||@=||@=||@=||@=||@=
+7 Segment LED Double (CA)||#DIL=18||@=||@=||@=||@=||@=
+7 Segment LED Double (CC)||#DIL=18||@=||@=||@=||@=||@=
+9 Way Serial||#DIL=11||@=||@=||@=||@=||@=
+10 Bar LED Display||#DIL=20||@=||@=||@=||@=||@=
+24LCxx I2C EEPROM||#DIL=8||@=||@=||@=||@=||@=
+555 Timer||#DIL=8||@=||@=||@=||@=||@=
+Battery (PCB AAx2)||#DIL=4||@=||@=||@=||@=||@=
+Battery (PCB AAx3)||#DIL=4||@=||@=||@=||@=||@=
+Battery (PCB AAx4)||#DIL=4||@=||@=||@=||@=||@=
+Battery (PCB CR2303 cell)||#DIL=3||@=||@=||@=||@=||@=
+Battery (PCB PP3)||#DIL=4||@=||@=||@=||@=||@=
+Battery (Strain relief)||#DIL=3||@=||@=||@=||@=||@=
+Buzzer (Leads)||#DIL=3||@=||@=||@=||@=||@=
+Buzzer (PCB)||#DIL=2||@=||@=||@=||@=||@=
+Capacitor (ceramic)||#DIL=2||@=||@=||@=||@=||@=
+Capacitor (polyester)||#DIL=2||@=||@=||@=||@=||@=
+Capacitor Elec Axial||#DIL=2||@=||@=||@=||@=||@=
+Capacitor Elec Axial (large)||#DIL=2||@=||@=||@=||@=||@=
+Capacitor Elec Axial (xl)||#DIL=2||@=||@=||@=||@=||@=
+Capacitor Electrolytic||#DIL=2||@=||@=||@=||@=||@=
+Capacitor Electrolytic (large)||#DIL=2||@=||@=||@=||@=||@=
+Capacitor Electrolytic (xl)||#DIL=2||@=||@=||@=||@=||@=
+Create Connection||#DIL=1||@=||@=||@=||@=||@=
+Crystal||#DIL=2||@=||@=||@=||@=||@=
+Diode 1N4001||#DIODE=2||@=||@=||@=||@=||@=
+Diode 1N4002||#DIODE=2||@=||@=||@=||@=||@=
+Diode 1N4003||#DIODE=2||@=||@=||@=||@=||@=
+Diode 1N4004||#DIODE=2||@=||@=||@=||@=||@=
+Diode 1N4148||#DIODE=2||@=||@=||@=||@=||@=
+DS18B20 Temp Sensor||#DIL=3||@=||@=||@=||@=||@=
+DS1307 I2C Real Time Clock||#DIL=8||@=||@=||@=||@=||@=
+FET IRF520||#DIL=3||@=||@=||@=||@=||@=
+FET ZVN3306A||#DIL=3||@=||@=||@=||@=||@=
+FET ZVP2106A||#DIL=3||@=||@=||@=||@=||@=
+Fuse 20mm||#DIL=4||@=||@=||@=||@=||@=
+Ground||#DIL=1||@=||@=||@=||@=||@=
+Header (2 pole)||#DIL=2||@=||@=||@=||@=||@=
+Header (3 pole)||#DIL=3||@=||@=||@=||@=||@=
+Header (4 pole)||#DIL=4||@=||@=||@=||@=||@=
+Header (5 pole)||#DIL=5||@=||@=||@=||@=||@=
+Header (6 pole)||#DIL=6||@=||@=||@=||@=||@=
+Header (10 pole)||#DIL=10||@=||@=||@=||@=||@=
+Humidity||#DIL=3||@=||@=||@=||@=||@=
+iButton||#Header=4||@=||@=||@=||@=||@=
+Inductor||#DIL=2||@=||@=||@=||@=||@=
+Infrared Sensor||#DIL=3||@=||@=||@=||@=||@=
+L293D Motor Driver||#DIL=16||@=||@=||@=||@=||@=
+Lamp||#DIL=2||@=||@=||@=||@=||@=
+LDR (miniature)||#DIL=2||@=||@=||@=||@=||@=
+LDR (NORP12)||#DIL=2||@=||@=||@=||@=||@=
+LED (3mm)||#DIL=2||@=||@=||@=||@=||@=
+LED (5mm bicolour)||#DIL=2||@=||@=||@=||@=||@=
+LED (5mm tricolour)||#DIL=3||@=||@=||@=||@=||@=
+LED (5mm)||#LED_RED=2||@=||@=||@=||@=||@=
+LED (10mm)||#DIL=2||@=||@=||@=||@=||@=
+Link||#R=2||@=||@=||@=||@=||@=
+Loudspeaker||#DIL=3||@=||@=||@=||@=||@=
+MAX232 MAX202||#DIL=16||@=||@=||@=||@=||@=
+Motor||#DIL=2||@=||@=||@=||@=||@=
+NXT||#NXT=8||@=||@=||@=||@=||@=
+Op Amp 741||#DIL=8||@=||@=||@=||@=||@=
+Op Amp CA3140||#DIL=8||@=||@=||@=||@=||@=
+Op Amp LM324 Quad||#DIL=14||@=||@=||@=||@=||@=
+Opto-isolator||#DIL=4||@=||@=||@=||@=||@=
+Output||#DIL=2||@=||@=||@=||@=||@=
+Pad||#DIL=1||@=||@=||@=||@=||@=
+Pad 0V||#DIL=1||@=||@=||@=||@=||@=
+Pad V+||#DIL=1||@=||@=||@=||@=||@=
+Phototransistor||#DIL=2||@=||@=||@=||@=||@=
+Piezo (Leads)||#DIL=3||@=||@=||@=||@=||@=
+Piezo (PCB)||#DIL=2||@=||@=||@=||@=||@=
+Ping||#DIL=3||@=||@=||@=||@=||@=
+Potentiometer (leads)||#DIL=3||@=||@=||@=||@=||@=
+Power||#DIL=0||@=||@=||@=||@=||@=
+Preset (multiturn)||#DIL=3||@=||@=||@=||@=||@=
+Preset (PCB)||#DIL=3||@=||@=||@=||@=||@=
+PS2||#DIL=9||@=||@=||@=||@=||@=
+Regulator 78L05||#DIL=3||@=||@=||@=||@=||@=
+Regulator 78L12||#DIL=3||@=||@=||@=||@=||@=
+Regulator 7805||#DIL=3||@=||@=||@=||@=||@=
+Regulator 7812||#DIL=3||@=||@=||@=||@=||@=
+Regulator 7905||#DIL=3||@=||@=||@=||@=||@=
+Regulator 7912||#DIL=3||@=||@=||@=||@=||@=
+Regulator LM317||#DIL=3||@=||@=||@=||@=||@=
+Relay DPDT (5V Finder)||#DIL=8||@=||@=||@=||@=||@=
+Relay DPDT (6V Kamling)||#DIL=8||@=||@=||@=||@=||@=
+Resistor||#DIL=2||@=||@=||@=||@=||@=
+Resistor Array||#DIL=16||@=||@=||@=||@=||@=
+Resonator||#DIL=3||@=||@=||@=||@=||@=
+Serial LCD||#Header=3||@=||@=||@=||@=||@=
+Serial OLED||#Header=3||@=||@=||@=||@=||@=
+Servo||#Header=3||@=||@=||@=||@=||@=
+Shield||#SHIELD=28||@=||@=||@=||@=||@=
+Solenoid||#DIL=2||@=||@=||@=||@=||@=
+SRF005||#Header=5||@=||@=||@=||@=||@=
+Stepper||#Header=6||@=||@=||@=||@=||@=
+Switch (Tilt)||#DIL=2||@=||@=||@=||@=||@=
+Switch DPST (Leads)||#DIL=4||@=||@=||@=||@=||@=
+Switch PTB (Leads)||#DIL=2||@=||@=||@=||@=||@=
+Switch PTM (Leads)||#DIL=2||@=||@=||@=||@=||@=
+Switch SPDT (Leads)||#DIL=3||@=||@=||@=||@=||@=
+Switch SPDT (PCB slide)||#DIL=5||@=||@=||@=||@=||@=
+Switch SPDT (PCB ultramin)||#DIL=3||@=||@=||@=||@=||@=
+Switch SPST (6mm PCB)||#DIL=4||@=||@=||@=||@=||@=
+Switch SPST (12mm PCB)||#DIL=4||@=||@=||@=||@=||@=
+Switch SPST (Leads)||#DIL=2||@=||@=||@=||@=||@=
+Switch SPST (PCB slide)||#DIL=5||@=||@=||@=||@=||@=
+Terminal Block (5mm-2pole)||#DIL=2||@=||@=||@=||@=||@=
+Terminal Block (5mm-3pole)||#DIL=3||@=||@=||@=||@=||@=
+Terminal Block (5mm-4pole)||#DIL=4||@=||@=||@=||@=||@=
+Terminal Block (5mm-6pole)||#DIL=6||@=||@=||@=||@=||@=
+Terminal Block (5mm-8pole)||#DIL=8||@=||@=||@=||@=||@=
+Terminal Block (5mm-12pole)||#DIL=12||@=||@=||@=||@=||@=
+Thermistor||#DIL=2||@=||@=||@=||@=||@=
+Thyristor 2N5060||#DIL=3||@=||@=||@=||@=||@=
+Thyristor 2N5061||#DIL=3||@=||@=||@=||@=||@=
+Thyristor TIC106D||#DIL=3||@=||@=||@=||@=||@=
+Touch||#Header=1||@=||@=||@=||@=||@=
+Transistor Darlington BCX38C||#DIL=3||@=||@=||@=||@=||@=
+Transistor Darlington TIP120||#DIL=3||@=||@=||@=||@=||@=
+Transistor NPN 2N3053||#DIL=3||@=||@=||@=||@=||@=
+Transistor NPN BC108||#DIL=3||@=||@=||@=||@=||@=
+Transistor NPN BC548B||#DIL=3||@=||@=||@=||@=||@=
+Transistor NPN BC639||#DIL=3||@=||@=||@=||@=||@=
+Transistor NPN BFY51||#DIL=3||@=||@=||@=||@=||@=
+Transistor NPN TIP31C||#DIL=3||@=||@=||@=||@=||@=
+Transistor NPN ZTX321||#DIL=3||@=||@=||@=||@=||@=
+Transistor NPN ZTX1048A||#DIL=3||@=||@=||@=||@=||@=
+Transistor PNP BC178||#DIL=3||@=||@=||@=||@=||@=
+Transistor PNP BC558B||#DIL=3||@=||@=||@=||@=||@=
+Transistor PNP TIP32C||#DIL=3||@=||@=||@=||@=||@=
+Transistor PNP ZTX558||#DIL=3||@=||@=||@=||@=||@=
+Transistor PNP ZTX1151A||#DIL=3||@=||@=||@=||@=||@=
+UDN2901A Darlington Driver||#DIL=16||@=||@=||@=||@=||@=
+UDN2981A Darlington Driver||#DIL=18||@=||@=||@=||@=||@=
+ULN2003A Darlington Driver||#DIL=16||@=||@=||@=||@=||@=
+ULN2803A Darlington Driver||#DIL=18||@=||@=||@=||@=||@=
+UNIO EEPROM||#DIL=8||@=||@=||@=||@=||@=
+VDATA2||#Header=8||@=||@=||@=||@=||@=
+VMUSIC2||#Header=8||@=||@=||@=||@=||@=
+Watch Crystal||#DIL=2||@=||@=||@=||@=||@=
+xBee||#XBEE=20||@=||@=||@=||@=||@=
+Zener Diode||#DIL=2||@=||@=||@=||@=||@=

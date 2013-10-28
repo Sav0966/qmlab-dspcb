@@ -1,0 +1,138 @@
+AC Current Source||#SPICE=0||@SpiceSourceAC=1 0||@SpiceDevice=I||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+AC dB Probe||#SPICE=0||@SpiceProbe=dB||@SpiceProbeCurveLabel=AC dB||@SpiceTemplate=#AUTOPLOT AC VP(%1)||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+AC Phase Probe||#SPICE=0||@SpiceProbe=Phase||@SpiceProbeCurveLabel=AC Phase||@SpiceTemplate=#AUTOPLOT AC VDB(%1)||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+AC Voltage Source||#SPICE=0||@SpiceSourceAC=1 0||@SpiceDevice=V||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Amplifier (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=AMP||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+AND2 (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=74HC08||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+AND3 (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=74HC11||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Arbitrary Current Source||#SPICE=0||@SpiceDevice=B||@SpiceExpression=I=expression||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Arbitrary Voltage Source||#SPICE=0||@SpiceDevice=B||@SpiceExpression=V=expression||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Buffer (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=BUF||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Capacitor||#SPICE=0||@C=1n||@SpiceDevice=C||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Capacitor (polar)||#SPICE=0||@C=0.25p||@SpiceDevice=C||@SpiceParameters=Rser=0.1 Lser=0.001 Cpar=5e-011||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Capacitor (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=CAP||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Capacitor (xtal)||#SPICE=0||@C=0.25p||@SpiceDevice=C||@SpiceParameters=Rser=0.1 Lser=0.001 Cpar=5e-011||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Comparator||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=LP339||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Comparator - diff out latched||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=LT1016||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Comparator with Ground||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=LP311||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Current Controlled Current Src||#SPICE=0||@SpiceDevice=F||@SpiceValue=1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Current Controlled Switch||#SPICE=0||@SpiceDevice=W||@SpiceModel=CSW||@SpiceParameters=||@SpiceValue=V1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Current Controlled Voltage Src||#SPICE=0||@SpiceDevice=H||@SpiceValue=1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Current Probe||#SPICE=0||@SpiceProbe=Current||@SpiceProbeCurveLabel=||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Current Pulse Generator||#SPICE=0||@SpiceDevice=I||@SpiceSourceAC=AC 1 0||@SpiceSource=Pulse||@SpiceInitValue=0||@SpicePulsedValue=5||@SpiceDelay=0||@SpiceRise=100n||@SpiceFall=100n||@SpiceWidth=5u||@SpicePeriod=10u||@SpiceNumPeriods=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Current Sine Generator||#SPICE=0||@SpiceDevice=I||@SpiceSourceAC=AC 1 0||@SpiceSource=Sine||@SpiceOffset=0||@SpicePeak=1||@SpiceFrequency=1k||@SpiceDelay=||@SpiceTheta=||@SpicePhase=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+D-type Flip-Flop (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=74HC74||@SpicePinOrder=4 1 2 3 5 6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Differential Voltage Probe||#SPICE=0||@SpiceProbe=Differential Voltage||@SpiceParameters=nowarn = true    yunit = V||@SpiceProbeCurveLabel=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_and2||#SPICE=0||@SpiceDevice=A||@SpiceModel=AND||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_and3||#SPICE=0||@SpiceDevice=A||@SpiceModel=AND||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_and4||#SPICE=0||@SpiceDevice=A||@SpiceModel=AND||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_buf||#SPICE=0||@SpiceDevice=A||@SpiceModel=BUF||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_dflop||#SPICE=0||@SpiceDevice=A||@SpiceModel=DFLOP||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_diffschmtbuf||#SPICE=0||@SpiceDevice=A||@SpiceModel=SCHMITT||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_diffschmtinv||#SPICE=0||@SpiceDevice=A||@SpiceModel=INVSCHMITT||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_inv||#SPICE=0||@SpiceDevice=A||@SpiceModel=INV||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_nand2||#SPICE=0||@SpiceDevice=A||@SpiceModel=NAND||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_nand3||#SPICE=0||@SpiceDevice=A||@SpiceModel=NAND||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_nand4||#SPICE=0||@SpiceDevice=A||@SpiceModel=NAND||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_nor2||#SPICE=0||@SpiceDevice=A||@SpiceModel=NOR||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_nor3||#SPICE=0||@SpiceDevice=A||@SpiceModel=NOR||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_nor4||#SPICE=0||@SpiceDevice=A||@SpiceModel=NOR||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_or2||#SPICE=0||@SpiceDevice=A||@SpiceModel=OR||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_or3||#SPICE=0||@SpiceDevice=A||@SpiceModel=OR||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_or4||#SPICE=0||@SpiceDevice=A||@SpiceModel=OR||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_schmtbuf||#SPICE=0||@SpiceDevice=A||@SpiceModel=SCHMITT||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_schmtinv||#SPICE=0||@SpiceDevice=A||@SpiceModel=INVSCHMITT||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_srflop||#SPICE=0||@SpiceDevice=A||@SpiceModel=SRFLOP||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_xnor2||#SPICE=0||@SpiceDevice=A||@SpiceModel=XNOR||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_xnor3||#SPICE=0||@SpiceDevice=U||@SpiceModelType=XNOR||@SpiceModel=||@SpiceModelParameters=||@SpicePinOrder=4 1 2 3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_xor2||#SPICE=0||@SpiceDevice=A||@SpiceModel=XOR||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+digital_xor3||#SPICE=0||@SpiceDevice=A||@SpiceModel=XOR||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Diode||#SPICE=0||@SpiceDevice=D||@SpiceModel=1N4148||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+EPOLY||#SPICE=0||@SpiceDevice=E||@SpiceTemplate=%d %1 %2 POLY(1) %3 %4 %5 %6 %v %p||@SpiceValue=||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+EPOLY2||#SPICE=0||@SpiceDevice=E||@SpiceTemplate=%d %1 %2 POLY(2) %3 %4 %5 %6 %v %p||@SpiceValue=||@SpiceParameters=||@Label=POLY||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Fixed Current Source||#SPICE=0||@SpiceSourceDC=1m||@SpiceDevice=I||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Fixed Voltage Source||#SPICE=0||@SpiceDevice=V||@SpiceSourceDC=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Ground||#SPICE=0||@SpiceGround=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Ideal Inductor||#SPICE=0||@L=1u||@SpiceDevice=L||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Ideal Transformer (1p 1s)||#SPICE=0||@SpiceDevice=X||@SpiceType=Ideal Transformer||@SpiceInductance=10u||@SpiceCoupling=PP=0.99 SS=0.99 PS=0.99||@SpiceWindings=P=1 S=1 S1=1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Ideal Transformer (1p 2s)||#SPICE=0||@SpiceDevice=X||@SpiceType=Ideal Transformer||@SpiceInductance=10u||@SpiceCoupling=PP=0.99 SS=0.99 PS=0.99||@SpiceWindings=P=1 S=2  S1=1 S2=1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Ideal Transformer (2p 2s)||#SPICE=0||@SpiceDevice=X||@SpiceType=Ideal Transformer||@SpiceInductance=10u||@SpiceCoupling=PP=0.99 SS=0.99 PS=0.99||@SpiceWindings=P=2 S=2  P2=1 S1=1 S2=1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Ideal Transformer (3p 3s)||#SPICE=0||@SpiceDevice=X||@SpiceType=Ideal Transformer||@SpiceInductance=10u||@SpiceCoupling=PP=0.99 SS=0.99 PS=0.99||@SpiceWindings=P=3 S=3  P2=1 P3=1 S1=1 S2=1 S3=1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+IGBT||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=IRG4BC10U||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Inductor (Vertical)||#SPICE=0||@L=1u||@SpiceDevice=L||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Initial Condition||#SPICE=0||@SpiceInitialCondition=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Instrumentation Amp (7 pin)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=INA105||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Instrumentation Amp (8 pin)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=INA101||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Inverter (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=74HC04||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+KCORE||#SPICE=0||@SpiceDevice=K||@SpiceValue=L1 L2||@SpiceParameters=.999||@SpiceTemplate=%d %v %p||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+KCORE1||#SPICE=0||@SpiceDevice=K||@SpiceValue=L1 L2||@SpiceParameters=.999||@SpiceTemplate=%d %v %p||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+KCORE2||#SPICE=0||@SpiceDevice=K||@SpiceValue=L1 L2||@SpiceParameters=.999||@SpiceTemplate=%d %v %p||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+KCORE3||#SPICE=0||@SpiceDevice=K||@SpiceValue=L1 L2||@SpiceParameters=.999||@SpiceTemplate=%d %v %p||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+LT1184F||#SPICE=0||@SpiceDevice=X||@SpiceModel=LT1184F||@SpiceParameters=||@SpicePinOrder=6 3 1 7 5 4 u1 u2 u3 u4 2 12 8 9 11 10||@SpicePowerSymbol=unused_pins_4||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+MESFET Transistor||#SPICE=0||@SpiceDevice=Z||@SpiceModel=NMF||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+modulate||#SPICE=0||@SpiceDevice=A||@SpiceModel=MODULATOR||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+modulate2||#SPICE=0||@SpiceDevice=A||@SpiceModel=2MODULATOR||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Module Port||#SPICE=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+N-Channel JFET||#SPICE=0||@SpiceDevice=J||@SpiceModel=2N3819||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+N-Channel therm 5 (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=SI4620DY||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+NAND2 (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=74HC00||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+NAND3 (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=74HC10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+NAND4 (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=74HC20||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+NMOS (3 term)||#SPICE=0||@SpiceDevice=M||@SpiceModel=Si4410DY||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+NMOS (Monolithic)||#SPICE=0||@SpiceDevice=M||@SpiceModel=NMOS||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Nodeset||#SPICE=0||@SpiceNodeset=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+NOR2 (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=74HC02||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+NOR3 (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=74HC27||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+NOR4 (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=74HC4002||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Npn||#SPICE=0||@SpiceModel=2N2222||@SpiceDevice=Q||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Npn Darlington||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=ZTX605||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Opamp||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=TL072||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Opamp (6 term with comp)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=LT1128||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Opamp (6 term with enable)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=LT1219||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Opamp (6 term)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=LMC6681A||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Opamp (7 terminal)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=LH2108||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Opamp (with Output Supply)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=OPA640X||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+OR2 (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=74HC32||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+OR3 (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=74HC4075||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+OR4 (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=74HC4072||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+P-Channel JFET||#SPICE=0||@SpiceDevice=J||@SpiceModel=J175||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+P-Channel therm 5 (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=BSP316P||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+phidet||#SPICE=0||@SpiceDevice=A||@SpiceModel=PHASEDET||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+PMOS (3 term)||#SPICE=0||@SpiceDevice=M||@SpiceModel=Si4401DY||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+PMOS (Monolithic)||#SPICE=0||@SpiceDevice=M||@SpiceModel=PMOS||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Pnp||#SPICE=0||@SpiceModel=2N2907||@SpiceDevice=Q||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Pnp Darlington||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=ZTX704||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Power Rail (negative)||#SPICE=0||@SpicePowerRail=5V||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Power Rail (positive)||#SPICE=0||@SpicePowerRail=5V||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Power Supply||#SPICE=0||@SpiceSourceDC=5V||@SpiceDevice=V||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Pulse Generator||#SPICE=0||@SpiceDevice=V||@SpiceSourceAC=AC 1 0||@SpiceSource=Pulse||@SpiceInitValue=0||@SpicePulsedValue=5||@SpiceDelay=0||@SpiceRise=100n||@SpiceFall=100n||@SpiceWidth=5u||@SpicePeriod=10u||@SpiceNumPeriods=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Regulator - 3 term adjustable||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=LT1083||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Regulator - 3 terminal||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=LM317||@SpicePinOrder=2,3,1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Regulator - 6 terminal||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=LT1762||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Regulator - bypass + adj||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=LT1761BYP||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Regulator - shutdown + bypass||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=LT1761||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Regulator - shutdown and adj||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=LT1121||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Resistor (Box Shape)||#SPICE=0||@R=1K||@SpiceDevice=R||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Resistor (Z shape)||#SPICE=0||@R=1K||@SpiceDevice=R||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+samplehold||#SPICE=0||@SpiceDevice=A||@SpiceModel=SAMPLEHOLD||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Schottky||#SPICE=0||@SpiceDevice=D||@SpiceModel=BAT54||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Simulator Control||#SPICE=0||@SpiceTemplate1=line1||@SpiceTemplate2=line2||@SpiceTemplate3=line3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Sine Generator||#SPICE=0||@SpiceDevice=V||@SpiceSourceAC=AC 1 0||@SpiceSource=Sine||@SpiceOffset=0||@SpicePeak=1||@SpiceFrequency=1k||@SpiceDelay=||@SpiceTheta=||@SpicePhase=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Terminal||#SPICE=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Terminal (Small)||#SPICE=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Thermal Network - 2 term||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=irf2804t||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Timer IC mixed-mode||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=555||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Transmission Line (Lossless)||#SPICE=0||@SpiceImpedance=50||@SpiceDelay=50n||@SpiceDevice=T||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Transmission Line (Lossy)||#SPICE=0||@SpiceModel=LTRA_MODEL||@SpiceDevice=O||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Tri-state buffer||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=74HC125||@SpicePinOrder=2 1 3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Uniform RC Line||#SPICE=0||@SpiceDevice=U||@SpiceParameters=L=<len>||@SpiceModel=URC||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Varicap||#SPICE=0||@SpiceDevice=D||@SpiceModel=MV2201||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+varistor||#SPICE=0||@SpiceDevice=A||@SpiceModel=VARISTOR||@SpiceParameters=Rclamp=1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Voltage Controlled Current Src||#SPICE=0||@SpiceDevice=G||@SpiceValue=1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Voltage Controlled Switch||#SPICE=0||@SpiceDevice=S||@SpiceModel=SW||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Voltage Controlled Voltage Src||#SPICE=0||@SpiceDevice=E||@SpiceValue=1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Voltage Probe||#SPICE=0||@SpiceProbe=Voltage||@SpiceProbeCurveLabel=||@SpiceParameters=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Voltage Switch (Subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=SW||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+XNOR2 (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=74HC4077||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+XOR2 (subcircuit)||#SPICE=0||@SpiceDevice=X||@SpiceSubcircuit=74HC86||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Zener Diode||#SPICE=0||@SpiceDevice=D||@SpiceSubcircuit=BZX84C10L||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=

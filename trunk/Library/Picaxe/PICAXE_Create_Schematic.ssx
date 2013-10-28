@@ -1,0 +1,114 @@
+2PIN||2
+2.1mm jack||3
+3PIN||3
+3.5mm jack||5
+4PIN||4
+5PIN||5
+6PIN||6
+7 Seg Display||10
+7 Seg Display (CA)||10
+7 Seg Display 2||18
+7 Seg Display 2 (ca)||18
+8PIN||8
+9PIN||9
+9PIND||11
+10PIN||10
+12PIN||12
+24LCXX||8
+555 Timer||8
+Battery||3
+Buzzer||2
+Create Connection||1
+Crystal||2
+Diode||2
+DPDT||6
+DPDT relay||8
+DPST||4
+DS1307||8
+Elec Cap||2
+Filament Lamp||2
+Fuse||2
+Generator||2
+GND||1
+Ground||1
+iButton||4
+Inductor||2
+L293D||16
+LCD||3
+LDR||2
+LED||2
+LEDbar||20
+LEDbicolour||2
+LEDtricolour||3
+Link||2
+M 8870||18
+MAX202||16
+Motor||2
+N Channel MOSFET||3
+NPN Darlington||3
+NPN Transistor||3
+NXT||6
+Op Amp||7
+Op Amp2||5
+optoisolator||4
+Output||2
+P Channel MOSFET||3
+Pad||1
+Pad2||2
+Pad3||3
+Pad4||4
+Pad6||6
+Phototransistor||2
+PIC08||8
+PIC14||14
+PIC18||18
+PIC18 res||18
+PIC20||20
+PIC28||28
+PIC40||40
+PICAXE-08||8
+PICAXE-14||14
+PICAXE-18||18
+PICAXE-20||20
+PICAXE-28||28
+PICAXE-40||40
+Piezo||2
+PNP Transistor||3
+Poly Cap||2
+Power||2
+Power Neg||2
+Preset||3
+PS2||6
+PTB||2
+PTM||2
+Resistor||2
+Resonator||3
+RV||3
+SEN3||3
+Sensor||3
+Servo||3
+Shield||28
+Signal Lamp||2
+Solenoid||2
+SPDT||3
+SPDT relay||5
+Speaker||2
+SPST||2
+SPST2||4
+SRF005||5
+Stepper||6
+stereo||10
+Thermistor||2
+Thyristor||3
+Touch||1
+Transformer||8
+ULN2003A||16
+ULN2803A||18
+UNIO||8
+V+||1
+Variable Cap||2
+Variable Resistor||3
+VMUSIC2||8
+Voltage Regulator||3
+xBee||20
+Zener Diode||2
